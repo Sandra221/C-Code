@@ -1,6 +1,6 @@
 using Algorithms;
 using System;
-
+//Copy från Visual studio 
 namespace Program
 {
     class Program
